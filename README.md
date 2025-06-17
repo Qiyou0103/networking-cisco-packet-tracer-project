@@ -37,4 +37,6 @@ The project covers the following key areas:
 
 This project is intended for educational purposes only.
 
+## Output of Cisco Packet Tracer
+![alt text](image.png)
 ---
