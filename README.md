@@ -20,7 +20,7 @@ The project covers the following key areas:
 ## Getting Started
 
 1. **Read the Assignment Brief:**  
-   Download and read [NET1014-Group Assignment]https://github.com/Qiyou0103/networking-cisco-packet-tracer-project/blob/afc15e438cb730bb84373a0fb98775ebccf7ee46/NET1014%20-%20Group%20Assignment%20-%20Feb2025.pdf for full instructions and requirements.
+   Download and read NET1014 - Group Assignment - Feb2025.pdf for full instructions and requirements.
 
 2. **Tools Required:**  
    - [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer)
