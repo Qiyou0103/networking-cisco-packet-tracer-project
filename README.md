@@ -22,7 +22,7 @@ The project covers the following key areas:
 1. **Read the Assignment Brief:**  
    Download and read [[NET1014 - Group Assignment - Feb2025.pdf](https://github.com/Qiyou0103/networking-cisco-packet-tracer-project/blob/29018ff70abd8dea91372488c0d4c1a6414df57b/NET1014%20-%20Group%20Assignment%20-%20Feb2025.pdf)] for full instructions and requirements.
 
-   [[Networking Report.pdf](https://github.com/Qiyou0103/networking-cisco-packet-tracer-project/blob/0d48b00e44066a9bba57750e654a9ec3e29a5ad1/Networking%20Report.pdf)]
+   Download and read [[Networking Report.pdf](https://github.com/Qiyou0103/networking-cisco-packet-tracer-project/blob/0d48b00e44066a9bba57750e654a9ec3e29a5ad1/Networking%20Report.pdf)] for the full output report
 
 3. **Tools Required:**  
    - [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer)
